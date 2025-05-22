@@ -1,4 +1,4 @@
---uyga vazifa 9
+--uyga vazifa 
 -- task 1
 SELECT Products.ProductName,Suppliers.SupplierName FROM Products
 CROSS JOIN Suppliers 
